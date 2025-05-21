@@ -61,7 +61,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/DarenBach-code/DarenBach-code/output/snake.svg" alt="Snake animation" />
-
-###
